@@ -5,9 +5,9 @@
     <link>https://andrewgkirk.github.io/</link>
       <atom:link href="https://andrewgkirk.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Photonic Biosensing Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andrew Kirk 2019-2020</copyright><lastBuildDate>Thu, 02 Apr 2020 15:55:20 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andrew Kirk 2019-2020</copyright><lastBuildDate>Wed, 08 Apr 2020 10:04:11 -0400</lastBuildDate>
     <image>
-      <url>https://andrewgkirk.github.io/images/logo_huc897746c407b4fa3ae6ff8298acb17a7_144882_300x300_fit_lanczos_2.png</url>
+      <url>https://andrewgkirk.github.io/images/logo_hu17264ee547f89d0f2cea4cf5ba481d29_85687_300x300_fit_lanczos_2.png</url>
       <title>Photonic Biosensing Lab</title>
       <link>https://andrewgkirk.github.io/</link>
     </image>
@@ -55,11 +55,21 @@
     </item>
     
     <item>
+      <title>OSA Biophotonics Congress</title>
+      <link>https://andrewgkirk.github.io/post/osa-biophotonics-congress/</link>
+      <pubDate>Wed, 08 Apr 2020 10:04:11 -0400</pubDate>
+      <guid>https://andrewgkirk.github.io/post/osa-biophotonics-congress/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://andrewgkirk.github.io/authors/padideh-mohammadyousef/&#34;&gt;Padideh Mohammadyousef&lt;/a&gt; will be presenting her research on ultrafast plasmonically-driven PCR at the OSA Biomedical Optics Congress (April 20-23). Due to the Corona virus pandemic this will be a virtual meeting this year and registration is free to all. Registration information is available 
+&lt;a href=&#34;https://www.osa.org/en-us/meetings/osa_meetings/osa_biophotonics_congress_biomedical_optics/registration/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>CIHR COVID19 Funding</title>
       <link>https://andrewgkirk.github.io/post/cihr-covid19-funding/</link>
       <pubDate>Thu, 02 Apr 2020 15:55:20 -0400</pubDate>
       <guid>https://andrewgkirk.github.io/post/cihr-covid19-funding/</guid>
-      <description>&lt;p&gt;The research laboratories of Mark Trifiro and Andrew Kirk recntly obtained funding from CIHR to pursue urgent research to develop a rapid point-of-care detection system for COVID-19 infection. This system will be based on our ultrafast plasmonic PCR technique, and has the potential to yield a result in 15 minutes.&lt;/p&gt;
+      <description>&lt;p&gt;The research laboratories of Mark Trifiro and Andrew Kirk recently obtained funding from CIHR to pursue urgent research to develop a rapid point-of-care detection system for COVID-19 infection. This system will be based on our ultrafast plasmonic PCR technique, and has the potential to yield a result in 15 minutes.&lt;/p&gt;
 </description>
     </item>
     
